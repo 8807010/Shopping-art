@@ -14,6 +14,6 @@
 ✅ Работа с SCSS в React  
 ✅ Хуки useState, useEffect  
 
-[Shopping Cart](8807010.github.io/shopping-cart/)
+[Сlick me and use the app](8807010.github.io/shopping-cart/)
 
 ![Shopping Cart](https://github.com/8807010/Shopping-cart/blob/master/screenshot-cart.jpg)
