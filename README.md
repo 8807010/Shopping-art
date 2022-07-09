@@ -14,4 +14,4 @@
 ✅ Работа с SCSS в React  
 ✅ Хуки useState, useEffect  
 
-![Shopping Cart] (https://github.com/8807010/Shopping-cart/blob/master/screenshot-cart.jpg)
+![Shopping Cart](https://github.com/8807010/Shopping-cart/blob/master/screenshot-cart.jpg)
